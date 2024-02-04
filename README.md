@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gursidh</h1>
-<h3 align="center">I'm a full time programming student, nearing the end of the CST Diploma at BCIT! Besides from coding, I love watching <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/l4FGtal6RneLhHaFi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/imoji-hockey-l4FGtal6RneLhHaFi">via GIPHY</a></p> and listening to music. If you're interested in my profile, send me an email at <a href="https://gursidhsandhu@gmail.com" rel="nofollow">gursidhsandhu@gmail.com</a> and lets work on something! </h3>
+<h3 align="center">I'm a full time programming student, nearing the end of the CST Diploma at BCIT! Besides from coding, I love watching 
+ <img src="https://giphy.com/stickers/imoji-hockey-l4FGtal6RneLhHaFi" width="35"> and listening to music. If you're interested in my profile, send me an email at <a href="https://gursidhsandhu@gmail.com" rel="nofollow">gursidhsandhu@gmail.com</a> and lets work on something! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GursidhSandhu&label=Profile%20views&color=0e75b6&style=flat" alt="GursidhSandhu" /> </p>
 
