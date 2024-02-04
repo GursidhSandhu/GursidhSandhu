@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gursidh</h1>
-<h3 align="center">I'm currently in Term 4 of the CST Diploma at BCIT! I love learning new languages and working on new projects. If you're interested in my profile send me an email at gursidhsandhu@gmail.com, and lets work on something! </h3>
+<h3 align="center">I'm a full time programming student, nearing the end of the CST Diploma at BCIT! Besides from coding, I love watching sports and listening to music (Go Canucks). If you're interested in my profile send me an email at <a href="https://gursidhsandhu@gmail.com rel="nofollow">gursidhsandhu@gmail.com</a>, and lets work on something! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GursidhSandhu&label=Profile%20views&color=0e75b6&style=flat" alt="GursidhSandhu" /> </p>
 
