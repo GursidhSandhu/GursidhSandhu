@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gursidh</h1>
 <h3 align="center">I'm a full time programming student, nearing the end of the CST Diploma at BCIT! Besides from coding, I love watching
  <img src="https://media3.giphy.com/media/NbgyprIqLR6B7PnpCo/giphy.gif" width="20">
- and listening to <img src="https://media3.giphy.com/media/kPSh2dOI8IGgalB4tJ/giphy.gif?cid=82a1493bqoa7x3hatiyljzvgpdyh1rz1j4271bgfb7708scj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="20">
+ and listening to <img src="https://i.pinimg.com/originals/94/7f/79/947f79bf19270e8b8783bfc98f327140.gif" width="20">
  If you're interested in my profile, send me an email at <a href="https://gursidhsandhu@gmail.com" rel="nofollow">gursidhsandhu@gmail.com</a> and lets work on something! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GursidhSandhu&label=Profile%20views&color=0e75b6&style=flat" alt="GursidhSandhu" /> </p>
