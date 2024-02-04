@@ -17,5 +17,5 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/gursidh-sandhu-69a137262/" target="blank"><img align="center" src="https://github.com/GursidhSandhu/GursidhSandhu/main/linked-in-alt.svg" alt="gursidh-sandhu-69a137262" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gursidh-sandhu-69a137262/" target="blank"><img align="center" src="https://github.com/GursidhSandhu/GursidhSandhu/blob/main/linked-in-alt.svg" alt="gursidh-sandhu-69a137262" height="30" width="40" /></a>
 </p>
