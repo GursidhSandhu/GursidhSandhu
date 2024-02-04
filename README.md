@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gursidh</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Gursidh</h1>
 <h3 align="center">I'm a full time programming student, nearing the end of the CST Diploma at BCIT! Besides from coding, I love watching
  <img src="https://media3.giphy.com/media/NbgyprIqLR6B7PnpCo/giphy.gif" width="20">
  and listening to <img src="https://media.tenor.com/onv1YCwaJ7YAAAAi/musical-notes.gif" width="20">
