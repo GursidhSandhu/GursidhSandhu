@@ -4,7 +4,6 @@
  and listening to <img src="https://media.tenor.com/onv1YCwaJ7YAAAAi/musical-notes.gif" width="20">
  . If you're interested in my profile, send me an email at <a href="https://gursidhsandhu@gmail.com" rel="nofollow">gursidhsandhu@gmail.com</a> and lets work on something! </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GursidhSandhu&label=Profile%20views&color=0e75b6&style=flat" alt="GursidhSandhu" /> </p>
 
 
 
