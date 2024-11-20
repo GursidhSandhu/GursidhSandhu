@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Gursidh</h1>
-<h3 align="center">I'm a BCIT graduate with a diploma in Computer Science who also loves full time programming! Besides from coding, I love watching
+<h3 align="center">I'm a BCIT student currently in the Bachelors of Applied Computer Science! Besides from coding, I love watching
  <img src="https://media3.giphy.com/media/NbgyprIqLR6B7PnpCo/giphy.gif" width="20">
  and listening to <img src="https://media.tenor.com/onv1YCwaJ7YAAAAi/musical-notes.gif" width="20">
  . If you're interested in my profile, send me an email at <a href="https://gursidhsandhu@gmail.com" rel="nofollow">gursidhsandhu@gmail.com</a> and lets work on something! </h3>
